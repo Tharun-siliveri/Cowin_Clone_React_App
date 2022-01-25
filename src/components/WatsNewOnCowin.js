@@ -6,7 +6,7 @@ const WatsNewOnCowin = () => {
         <div className='watsNewOnCowin' >
             <Row>
                 <Col lg="3">
-                    <h2 style={{fontSize:'36px'},{paddingLeft:'75px'}}>What's New On Cowin?</h2>
+                    <h2 style={{paddingLeft:'75px'}}>What's New On Cowin?</h2>
                 </Col>
                 <Col className='watsNewOnCowinRight' lg="9">
                     <Accordion >
