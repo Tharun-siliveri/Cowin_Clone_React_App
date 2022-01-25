@@ -37,7 +37,7 @@ class BookYourSlot extends Component {
 
   getStates = () => {
     const options = {
-      url:process.env.URL_API+ "/states",
+      url:"https://cowin-api-stk.herokuapp.com"+ "/states",
       method: "GET",
       headers: {
         "Content-Type": "application/json",
@@ -56,7 +56,7 @@ class BookYourSlot extends Component {
 
   getCities = (state) => {
     const options = {
-      url: process.env.API_URL + "/states/" + state.replace(/ /g, "+"),
+      url:"https://cowin-api-stk.herokuapp.com"+ "/states/" + state.replace(/ /g, "+"),
       method: "GET",
       headers: {
         "Content-Type": "application/json",
@@ -75,7 +75,7 @@ class BookYourSlot extends Component {
 
   getCenters = (city) => {
     const options = {
-      url: process.env.API_URL + "/center?city=" + city.replace(/ /g, "+"),
+      url:"https://cowin-api-stk.herokuapp.com" + "/center?city=" + city.replace(/ /g, "+"),
       method: "GET",
       headers: {
         "Content-Type": "application/json",
@@ -114,7 +114,7 @@ class BookYourSlot extends Component {
     var dateRequestString = bookDate.getMonth() + 1 + "/" + bookDate.getDate() + "/" + bookDate.getFullYear();
 
     const options = {
-      url: process.env.API_URL + "/appointment",
+      url:"https://cowin-api-stk.herokuapp.com" + "/appointment",
       method: "POST",
       headers: {
         "Content-Type": "application/json",
