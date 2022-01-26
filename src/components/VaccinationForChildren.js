@@ -9,7 +9,7 @@ const VaccinationForChildren = () => {
             <Row>
                 <Col lg="5">
                     <div style={{paddingLeft:"90px"}}>
-                        <img src={vaccinationForChildren} style={{width:"350px"}} alt="precautionDose image" />
+                        <img src={vaccinationForChildren} style={{width:"350px"}} alt="precautionDose" />
                     </div>
                 </Col>
                 <Col lg="7" style={{padding:"20px"}}>
