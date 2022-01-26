@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f84d66e.css",
+    "main.js": "/static/js/main.2e3bc86a.js",
+    "static/media/easyVaccination2.jpg": "/static/media/easyVaccination2.189703054f5e028e0d21.jpg",
+    "static/media/cowinImage4.jpg": "/static/media/cowinImage4.57fd86d3ec510fd96e5f.jpg",
+    "static/media/internationalCertificate.jpg": "/static/media/internationalCertificate.75c92174845eb232c4a3.jpg",
+    "static/media/easyVaccination3.jpg": "/static/media/easyVaccination3.74a66674619dfe99e1f5.jpg",
+    "static/media/raiseAnIssue.jpg": "/static/media/raiseAnIssue.2621f6fcf0b917cc2ac3.jpg",
+    "static/media/cowinImage2.jpg": "/static/media/cowinImage2.02a570313f889a76fe2f.jpg",
+    "static/media/easyVaccination1.jpg": "/static/media/easyVaccination1.c8a0221ccc6d8ffbd06e.jpg",
+    "static/media/cowinImage1.jpg": "/static/media/cowinImage1.1bfcad66d9f51fa38aad.jpg",
+    "static/media/cowinImage3.jpg": "/static/media/cowinImage3.50b2a08d9537c5b413ce.jpg",
+    "static/media/shareYourVaccinationStatus.jpg": "/static/media/shareYourVaccinationStatus.d5a99a2a19a025605c0e.jpg",
+    "static/media/vaccinationDrive.jpg": "/static/media/vaccinationDrive.4cc5d1d5503215c30837.jpg",
+    "static/media/precautionDose.jpg": "/static/media/precautionDose.5fb42d0d0310b8863f50.jpg",
+    "static/media/digilockerIcon.jpeg": "/static/media/digilockerIcon.be795a53aafc1bf30cf8.jpeg",
+    "static/media/vaccine.png": "/static/media/vaccine.f6c9bad2ac24ff07e2cf.png",
+    "static/media/shield.png": "/static/media/shield.21e00c260bb68843a14c.png",
+    "static/media/easyVaccination.jpg": "/static/media/easyVaccination.cf4e3d26309d0dcca85b.jpg",
+    "static/media/AarogyaSetuIcon.jpeg": "/static/media/AarogyaSetuIcon.84c69d7618d05c92dcdb.jpeg",
+    "static/media/mygovIcon.png": "/static/media/mygovIcon.2d75ca084a4a91473b02.png",
+    "static/media/vaccinationForChildren.jpg": "/static/media/vaccinationForChildren.81863b137673f222596a.jpg",
+    "static/media/group.png": "/static/media/group.0e9b59969aa4bacb46f5.png",
+    "static/media/syringe.png": "/static/media/syringe.2d02d5583506fcbce399.png",
+    "static/media/umangIcon.jpeg": "/static/media/umangIcon.fc7adefe8bedc923f7e3.jpeg",
+    "static/media/cowinLogo.svg": "/static/media/cowinLogo.7487d1eb64a00189ddffc65ee65b05e9.svg",
+    "index.html": "/index.html",
+    "main.6f84d66e.css.map": "/static/css/main.6f84d66e.css.map",
+    "main.2e3bc86a.js.map": "/static/js/main.2e3bc86a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f84d66e.css",
+    "static/js/main.2e3bc86a.js"
+  ]
+}
